@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.АссортиментБлюд" id="a23adeb1-cc51-4fc6-9c07-31c09cfe6bf4" configVersion="0689477fc2bd4146b7452ab2fc84fdb900000000">
+			<Metadata name="Catalog.АссортиментБлюд.Attribute.ВесГотовогоБлюда" id="17e25424-818d-417c-9afc-204c7ca23416"/>
+			<Metadata name="Catalog.АссортиментБлюд.Attribute.Состав" id="37cf9c51-1922-47ac-8a95-7c60262f377a"/>
+			<Metadata name="Catalog.АссортиментБлюд.Attribute.Калорийность" id="6287dd09-e025-4f93-b877-2736dd087c99"/>
+			<Metadata name="Catalog.АссортиментБлюд.Command.Печать" id="9ca83de0-a355-4450-b91b-4df6c33b271f"/>
+			<Metadata name="Catalog.АссортиментБлюд.Attribute.Цена" id="a55f5d4f-db3b-4bfa-a709-94e0656a0d02"/>
+			<Metadata name="Catalog.АссортиментБлюд.Attribute.КатегорияБлюда" id="d0d6e077-358f-48f5-8315-77057554dd62"/>
+		</Metadata>
+		<Metadata name="Catalog.АссортиментБлюд.Command.Печать.CommandModule" id="9ca83de0-a355-4450-b91b-4df6c33b271f.2" configVersion="da0f46bee0bfe24e8b9285e235dae22f00000000"/>
+		<Metadata name="Catalog.АссортиментБлюд.Form.ФормаЭлемента" id="da23fa2e-6654-42c4-bc4e-82dbd717e6c0" configVersion="92a3cd1320ba3444910e0946dc26f5c000000000"/>
+		<Metadata name="Catalog.АссортиментБлюд.Form.ФормаЭлемента.Form" id="da23fa2e-6654-42c4-bc4e-82dbd717e6c0.0" configVersion="cc3513c00c56604489da792374de763700000000"/>
+		<Metadata name="Catalog.АссортиментБлюд.ManagerModule" id="a23adeb1-cc51-4fc6-9c07-31c09cfe6bf4.3" configVersion="0e5a1db258d41f4ab302da1fac1dd82a00000000"/>
+		<Metadata name="Catalog.АссортиментБлюд.ObjectModule" id="a23adeb1-cc51-4fc6-9c07-31c09cfe6bf4.0" configVersion="bf6bfbf0514f2844977431fd832e700f00000000"/>
+		<Metadata name="Catalog.АссортиментБлюд.Predefined" id="a23adeb1-cc51-4fc6-9c07-31c09cfe6bf4.1c" configVersion="c86ea87c6c54a642b823dad8032fa8de00000000"/>
+		<Metadata name="Catalog.АссортиментБлюд.Template.Печать" id="1855cec8-aca0-49b9-86d8-a7a79d355be0" configVersion="ce86ffc9e76d55419e6d0a9fb80ac25c00000000"/>
+		<Metadata name="Catalog.АссортиментБлюд.Template.Печать.Template" id="1855cec8-aca0-49b9-86d8-a7a79d355be0.0" configVersion="e1d44aa80c5c0540acd6e9c98bc0417800000000"/>
+		<Metadata name="Catalog.Офисы" id="8d1c007c-dcc6-4397-b745-2f2c10906b54" configVersion="041ff1a00c3f3840b792d1f96ceb18b600000000"/>
+		<Metadata name="Catalog.Офисы.Predefined" id="8d1c007c-dcc6-4397-b745-2f2c10906b54.1c" configVersion="bdc404681a0f1440a6c2a0ba299c7ba200000000"/>
+		<Metadata name="Catalog.Рестораны" id="e6b7e134-613a-433b-86d6-178af0a125fd" configVersion="9475c95df035894f8a8a42084a05142d00000000">
+			<Metadata name="Catalog.Рестораны.Attribute.Адрес" id="1a747f1d-53ae-466b-8253-440a140ec987"/>
+			<Metadata name="Catalog.Рестораны.Attribute.Телефон" id="1fabc915-f70b-43ac-9fc3-5c2783d1c778"/>
+			<Metadata name="Catalog.Рестораны.Attribute.Руководитель" id="2c0a03a2-c427-4a4d-8084-91faeddb2860"/>
+			<Metadata name="Catalog.Рестораны.Attribute.ДатаОткрытия" id="ed94cac4-5c29-482a-9ccb-9cfbdf487231"/>
+		</Metadata>
+		<Metadata name="Catalog.Склады" id="bce21ec1-b121-49eb-bf32-5f6fe02c862f" configVersion="9ca80ead2f45634c9af9c5d87c10e67300000000"/>
+		<Metadata name="Catalog.Склады.Predefined" id="bce21ec1-b121-49eb-bf32-5f6fe02c862f.1c" configVersion="8c3073d03fd30746aa59e6e78852a70000000000"/>
+		<Metadata name="Catalog.Сотрудники" id="ca97320d-fad9-4ec4-bd62-3d53a6aa9128" configVersion="e630afbd96a7f94fbbe9c4539a74823300000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Телефон" id="01d6e3e2-f30b-420d-9282-324f3542c12a"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="32a95025-e92e-4270-bc5e-3d40e960aaf7"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="621e561b-0bce-4135-8631-77be5bc23758"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="cad4b4e7-426d-436d-933d-64b7075d3385"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Ресторан" id="da905121-898f-4b56-8d3d-0fe5bf607503"/>
+		</Metadata>
+		<Metadata name="CommonForm.ФормаСоздатьНайтиБлюдо" id="a32ef27c-88b5-4f75-aed3-bb6a80e392d2" configVersion="4fdd6fd09e0fd04bb2c0e0c08c311e1a00000000"/>
+		<Metadata name="CommonForm.ФормаСоздатьНайтиБлюдо.Form" id="a32ef27c-88b5-4f75-aed3-bb6a80e392d2.0" configVersion="15c3d16f08f4d24aa4b2065682c85b2a00000000"/>
+		<Metadata name="CommonModule._Расчеты" id="388e6e88-d4b3-4f63-b67f-e7861e6a9926" configVersion="c98e3411f5870e409d1b9c1434a7296800000000"/>
+		<Metadata name="CommonModule._Расчеты.Module" id="388e6e88-d4b3-4f63-b67f-e7861e6a9926.0" configVersion="2bc0e32bd9467f4688b930f1fe08f7bd00000000"/>
+		<Metadata name="CommonPicture.Доп" id="221eea6d-c30d-4663-86a9-49ff73660507" configVersion="db1878e3f662e34b86ee9ee75777d0e400000000"/>
+		<Metadata name="CommonPicture.Доп.Picture" id="221eea6d-c30d-4663-86a9-49ff73660507.0" configVersion="1ac8319fcbb9374ab9f76ce086338b9d00000000"/>
+		<Metadata name="CommonPicture.Меню" id="b6cb97f3-55cf-4262-a777-adab79ea5a6c" configVersion="d46d29f432879f45ab5bbea12df6f23500000000"/>
+		<Metadata name="CommonPicture.Меню.Picture" id="b6cb97f3-55cf-4262-a777-adab79ea5a6c.0" configVersion="1e44fc8b1ee4cb4eb170bca38b7f398900000000"/>
+		<Metadata name="CommonPicture.Сотрудники" id="e8705658-ee47-47f8-a72d-79431f53bb6e" configVersion="c7bff943739e9d499a08979ff2892fcf00000000"/>
+		<Metadata name="CommonPicture.Сотрудники.Picture" id="e8705658-ee47-47f8-a72d-79431f53bb6e.0" configVersion="50d9bc7158042f429e2753386f7aac4800000000"/>
+		<Metadata name="Configuration.РЕСТОРАН" id="bd99764f-a247-42cc-80c7-d342e35251cc" configVersion="d949014618c13748a906f2d405f52c0a00000000"/>
+		<Metadata name="Document.РегистрацияЗаказа" id="48a75660-9b7f-4245-b5f2-af223edf325d" configVersion="931e44d3e370ca4b89f271b42eaa2bbc00000000">
+			<Metadata name="Document.РегистрацияЗаказа.Attribute.Официант" id="0046c26d-619c-42cb-a2c7-193c5be322bf"/>
+			<Metadata name="Document.РегистрацияЗаказа.TabularSection.Заказ.Attribute.Цена" id="35f3924d-7ff6-438c-b621-5a8912a045d1"/>
+			<Metadata name="Document.РегистрацияЗаказа.Command.ПечатьЧека" id="51bea7e4-9e44-4d40-9c4c-977f845486ec"/>
+			<Metadata name="Document.РегистрацияЗаказа.TabularSection.Заказ.Attribute.Сумма" id="54fb1d8a-3037-47ae-8109-b00a0aa40997"/>
+			<Metadata name="Document.РегистрацияЗаказа.TabularSection.Заказ.Attribute.Количество" id="837d0fde-d5f5-4346-8fa8-3a724ddf4804"/>
+			<Metadata name="Document.РегистрацияЗаказа.Attribute.ВремяЗаказа" id="93d9330f-ef58-49ce-af3e-86b20daaa070"/>
+			<Metadata name="Document.РегистрацияЗаказа.TabularSection.Заказ.Attribute.Блюдо" id="e8b7ee2c-feef-4acf-8f88-56e2775f8e4f"/>
+			<Metadata name="Document.РегистрацияЗаказа.Attribute.НомерСтола" id="f86e654b-7d07-49ee-892a-02f5cc822b47"/>
+			<Metadata name="Document.РегистрацияЗаказа.TabularSection.Заказ" id="fada2ff9-673f-4b9c-8566-07a323598a59"/>
+		</Metadata>
+		<Metadata name="Document.РегистрацияЗаказа.Command.ПечатьЧека.CommandModule" id="51bea7e4-9e44-4d40-9c4c-977f845486ec.2" configVersion="f118298bb4ba4f4bbf2ed0af9885ef6700000000"/>
+		<Metadata name="Document.РегистрацияЗаказа.Form.ФормаДокумента" id="8fd25a3e-e517-4c53-a7b4-5d8f4ba105b2" configVersion="00e3545a88334143a6656b544b05b98500000000"/>
+		<Metadata name="Document.РегистрацияЗаказа.Form.ФормаДокумента.Form" id="8fd25a3e-e517-4c53-a7b4-5d8f4ba105b2.0" configVersion="8382e014bb3bdb498c86ca528d6db3dc00000000"/>
+		<Metadata name="Document.РегистрацияЗаказа.Form.ФормаЧек" id="5bd7889c-92aa-4235-b51a-732e46f1b506" configVersion="d0a34855fe8b7643883d1cfdfa89017500000000"/>
+		<Metadata name="Document.РегистрацияЗаказа.Form.ФормаЧек.Form" id="5bd7889c-92aa-4235-b51a-732e46f1b506.0" configVersion="018b745f78450a4ab39fc3efd26f792e00000000"/>
+		<Metadata name="Document.РегистрацияЗаказа.ManagerModule" id="48a75660-9b7f-4245-b5f2-af223edf325d.2" configVersion="5a70e03a552c4b4cb50812c486bf91df00000000"/>
+		<Metadata name="Document.РегистрацияЗаказа.ObjectModule" id="48a75660-9b7f-4245-b5f2-af223edf325d.0" configVersion="54cac499ddaf9543b044a32ec065038f00000000"/>
+		<Metadata name="Document.РегистрацияЗаказа.Template.Чек" id="5c44b6cc-859f-4fab-94db-01c531198613" configVersion="1ac999acb7296649bde0a9b85762dce900000000"/>
+		<Metadata name="Document.РегистрацияЗаказа.Template.Чек.Template" id="5c44b6cc-859f-4fab-94db-01c531198613.0" configVersion="5e8dd00ed94eb845a5ad05bb790258f600000000"/>
+		<Metadata name="Document.ЦеныБлюд" id="04f38fd6-8eef-4255-8815-6bcdd07a71e6" configVersion="4f8f366c310fd840885e353fc1f1d7a300000000">
+			<Metadata name="Document.ЦеныБлюд.TabularSection.ЦеныБлюд.Attribute.Цена" id="4b592ab5-a88c-44a7-94eb-bec2cb5c8b19"/>
+			<Metadata name="Document.ЦеныБлюд.TabularSection.ЦеныБлюд" id="a39323d2-5328-458d-aaac-c9bff3941bf5"/>
+			<Metadata name="Document.ЦеныБлюд.TabularSection.ЦеныБлюд.Attribute.Блюдо" id="cf12e83e-887c-4f3a-a211-65dacce9c1ae"/>
+		</Metadata>
+		<Metadata name="Document.ЦеныБлюд.Form.ФормаДокумента" id="34353c36-5d55-4238-af5a-19a1ae1d7b6a" configVersion="ea4272b71bdb07408e73c618a0f34e8800000000"/>
+		<Metadata name="Document.ЦеныБлюд.Form.ФормаДокумента.Form" id="34353c36-5d55-4238-af5a-19a1ae1d7b6a.0" configVersion="53589b9688da3b4c885786f4bc75ef1b00000000"/>
+		<Metadata name="Document.ЦеныБлюд.ObjectModule" id="04f38fd6-8eef-4255-8815-6bcdd07a71e6.0" configVersion="8331d8b91e7c9f46b0e3fecac9b6651300000000"/>
+		<Metadata name="Enum.КатегорияБлюд" id="a8fad3bd-fecb-427b-a55b-a5bcc12981fc" configVersion="0879e909a47c4d4ea7db2c74f75d797100000000">
+			<Metadata name="Enum.КатегорияБлюд.EnumValue.Напитки" id="5360db8c-567e-4391-b9d7-22065a3cd346"/>
+			<Metadata name="Enum.КатегорияБлюд.EnumValue.ЛегкиеЗакуски" id="7016b8c5-8463-4f53-a211-38dee6f8b7b4"/>
+			<Metadata name="Enum.КатегорияБлюд.EnumValue.Супы" id="89f6ed3c-a7d3-4e64-8fcd-e9b97d616a0b"/>
+			<Metadata name="Enum.КатегорияБлюд.EnumValue.Детское" id="8df3b833-cd69-4c86-87e0-76ddbb1020c2"/>
+			<Metadata name="Enum.КатегорияБлюд.EnumValue.ОсновныеБлюда" id="f98510dc-4f62-4a8d-b9d9-5be4781f8c3c"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ИзменениеЦен" id="5800f5a4-7c89-4b87-97a7-04fa889ca161" configVersion="15e99202877cd7498a636c4c477b8e7400000000">
+			<Metadata name="InformationRegister.ИзменениеЦен.Dimension.Блюдо" id="038f4e69-1f2a-47df-8ad6-eee21b6376ce"/>
+			<Metadata name="InformationRegister.ИзменениеЦен.Resource.Цена" id="d48a47f4-8740-47f2-b849-066a12eaefa3"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="db6b69d7-b62e-447c-b849-ac2f1f910b43" configVersion="2ffb28bf09fae84692419e92700f907300000000"/>
+		<Metadata name="Report.ОтчетМеню" id="9cac5b68-8fd3-4b3c-aff0-fd7cea23ba03" configVersion="e4672449e036a74ea3389a6bd44cb5cf00000000"/>
+		<Metadata name="Report.ОтчетМеню.Template.ОсновнаяСхемаКомпоновкиДанных" id="9e3e44d7-3835-4ff0-b60e-029ca29bd42c" configVersion="52bbae08136e514a88d180e0e833b8d900000000"/>
+		<Metadata name="Report.ОтчетМеню.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="9e3e44d7-3835-4ff0-b60e-029ca29bd42c.0" configVersion="80000d62d4cda44296c75adaf3896b1a00000000"/>
+		<Metadata name="Style.Стиль1" id="bd6af6db-4a99-4548-b023-4edbfe900d85" configVersion="74ffcdb42774a34dabfe8b1749710d3600000000"/>
+		<Metadata name="Style.Стиль1.Style" id="bd6af6db-4a99-4548-b023-4edbfe900d85.0" configVersion="94d3e09a29f6584faa0941df5b24cd4700000000"/>
+		<Metadata name="Subsystem.Дополнительно" id="3aa8bdb7-17f5-4e99-ae3e-306d9f17548c" configVersion="aa1a8a24874db14ab9993360901acd3300000000"/>
+		<Metadata name="Subsystem.Меню" id="be9909de-2fdc-44c1-b1a2-28bea9309f3c" configVersion="6e693a3e560a504f9f7ab833537a053800000000"/>
+		<Metadata name="Subsystem.Сотрудники" id="c7240a69-9d0c-482e-94f8-af28fd00403d" configVersion="7765639cef92ad4daef8b7dfbe35f07400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
